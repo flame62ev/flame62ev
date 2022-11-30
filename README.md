@@ -14,3 +14,16 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Flame62EV&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width"600" height="300"/>
+</div>
+
+---
+
+### 👨‍💻 About Me : 
+I'm college student at UTSA majoring in CyberSecurity.
+
+- 🖱️ In my free time I play video games and code minor software projects for fun.
+
+- ⌨️ I'm currently experimenting with the Scala Language which is challening but easy to learn.
