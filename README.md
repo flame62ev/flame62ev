@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Spencer Ross
+# 👋 Hi, I'm Spencer Ross/flame62ev
 
 Welcome to my GitHub! I explore a variety of topics, mainly through focused personal projects.
 
